@@ -1,6 +1,6 @@
 Estrutura do repositório:
 
-root:
+Root:
 Reports
 Code
 Data
@@ -17,5 +17,7 @@ MODEL: Deve continuar igual a implementação original, exceto pela adaptação 
 COMMUNICATE: Apresentação para a banca, demonstração do funcionamento.
 
 
-Chatbots podem ser usados para diversas tarefas. Vendo a estrutura dos dados usados no projeto-exemplo – em um formato pergunta-resposta – percebemos que podemos mudar as perguntas e respostas de treino conforme a tarefa desejada. Pensando nisso, buscamos utilizar a abordagem do projeto-exemplo para auxiliar pessoas que possuem condições de saúde em tratamento. Essas pessoas podem depender de certa medicação que deve ser tomada periodicamente, ou devem estar atentas a certos sintomas ou condições que podem indicar uma piora de seu quadro de saúde e exigir a atenção de um médico.
-Assim, o nosso objetivo é criar um protótipo para demonstrar a aplicação de chatbots para esse fim. Também possuímos o requisito adicional de que a resposta ao usuário deve vir na forma de áudio e texto.
+
+  Chatbots podem ser usados para diversas tarefas. Vendo a estrutura dos dados usados no projeto-exemplo – em um formato pergunta-resposta – percebemos que podemos mudar as perguntas e respostas de treino conforme a tarefa desejada. Pensando nisso, buscamos utilizar a abordagem do projeto-exemplo para auxiliar pessoas que possuem condições de saúde em tratamento. Essas pessoas podem depender de certa medicação que deve ser tomada periodicamente, ou devem estar atentas a certos sintomas ou condições que podem indicar uma piora de seu quadro de saúde e exigir a atenção de um médico.
+  
+  Assim, o nosso objetivo é criar um protótipo para demonstrar a aplicação de chatbots para esse fim. Também possuímos o requisito adicional de que a resposta ao usuário deve vir na forma de áudio e texto.
