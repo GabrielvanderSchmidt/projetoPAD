@@ -25,23 +25,54 @@
      "context": [""]
     },
     {"tag": "Health and wellnesss",
-        "patterns": ["What physical exercises should/could I do?", "What are some good exercises to practice?"],
-        "responses": ["Going for a walk, jogging, or going to the gym are usually good options.", "You can check your local gym for a workout routine."],
-        "context": [""]
+     "patterns": ["What physical exercises should/could I do?", "What are some good exercises to practice?"],
+     "responses": ["Going for a walk, jogging, or going to the gym are usually good options.", "You can check your local gym for a workout routine."],
+     "context": [""]
     },
     {"tag": "Health and wellnessss",
-        "patterns": ["Are there any good places to go for a walk around here?"],
-        "responses": ["Parque Mutirama", "Parque Vaca Brava", "Zoologico de Goiania"],
-        "context": [""]
+     "patterns": ["Are there any good places to go for a walk around here?"],
+     "responses": ["Parque Mutirama", "Parque Vaca Brava", "Zoologico de Goiania"],
+     "context": [""]
     },
-	{"tag": "Entertainment",
-         "patterns": ["When is the 2022 Libertadores final?"],
-         "responses": ["October 26, 2022, at 5 p.m."],
-         "context": [""]
-	},
-	{"tag": "Entertainmentt",
-         "patterns": ["What movies are showing at the nearest cinema?"],
-         "responses": ["Spider man", "Avengers"],
-         "context": [""]
-	}  ]
+    {"tag": "Entertainment",
+     "patterns": ["When is the 2022 Libertadores final?"],
+     "responses": ["October 26, 2022, at 5 p.m."],
+     "context": [""]
+    },
+    {"tag": "Entertainmentt",
+     "patterns": ["What movies are showing at the nearest cinema?"],
+     "responses": ["Spider man", "Avengers"],
+     "context": [""]
+    },
+    {"tag": "Leisure",
+     "patterns": ["What are the safest neighborhoods in Goiania?"],
+     "responses": ["Setor Oeste, Setor Bueno, and Jardim Goias"],
+     "context": [""]
+    },
+    {"tag": "Leisuree",
+     "patterns": ["Where is a good place to hang out with friends?", "What are good places for a get-together?"],
+     "responses": ["Shopping Passeio das Aguas", "DCE", "Tio Coxinhas Bar."],
+     "context": [""]
+    },
+    {"tag": "Schedule/appointments",
+     "patterns": ["What appointments do I have on Thursday?"],
+     "responses": ["You have DAT class, and a presentation of your assignment."],
+     "context": [""]
+    },
+    {"tag": "Schedule/appointmentss",
+     "patterns": ["Schedule a meeting next Wednesday."],
+     "responses": ["I am unable to do this at the moment."],
+     "context": [""]
+    },
+    {"tag": "Schedule/appointmentsss",
+     "patterns": ["What assignments do I still have to do?"],
+     "responses": ["You still have two assignments. One from professor Telma, and another from professor Federson.", "You have assignments for Data Analytic Thinking and Algorithms and Data Structures 2."],
+     "context": [""]
+    },
+    {"tag": "Schedule/appointmentssss",
+     "patterns": ["How is my meeting schedule this week?"],
+     "responses": ["You have a CEIA meeting on Tuesday, at 9 am."],
+    "context": [""]
+    }
+]
 }
