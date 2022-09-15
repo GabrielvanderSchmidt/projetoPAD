@@ -23,5 +23,15 @@
      "patterns": ["What is the best time to practice exercises?", "When should I go out to exercise?"],
      "responses": ["Between 5 pm and 8 pm is usually a good choice.", "Early in the morning or late in the afternoon."],
      "context": [""]
-},  ]
+    },
+    {"tag": "Health and wellnesss",
+        "patterns": ["What physical exercises should/could I do?", "What are some good exercises to practice?"],
+        "responses": ["Going for a walk, jogging, or going to the gym are usually good options.", "You can check your local gym for a workout routine."],
+        "context": [""]
+    },
+    {"tag": "Health and wellnessss",
+        "patterns": ["Are there any good places to go for a walk around here?"],
+        "responses": ["Parque Mutirama", "Parque Vaca Brava", "Zoologico de Goiania"],
+        "context": [""]
+    }  ]
 }
