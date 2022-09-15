@@ -33,5 +33,15 @@
         "patterns": ["Are there any good places to go for a walk around here?"],
         "responses": ["Parque Mutirama", "Parque Vaca Brava", "Zoologico de Goiania"],
         "context": [""]
-    }  ]
+    },
+	{"tag": "Entertainment",
+         "patterns": ["When is the 2022 Libertadores final?"],
+         "responses": ["October 26, 2022, at 5 p.m."],
+         "context": [""]
+	},
+	{"tag": "Entertainmentt",
+         "patterns": ["What movies are showing at the nearest cinema?"],
+         "responses": ["Spider man", "Avengers"],
+         "context": [""]
+	}  ]
 }
